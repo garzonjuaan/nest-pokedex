@@ -11,4 +11,9 @@ export class SeedController {
     return this.seedService.executeSeed();
   }
 
+  // @Get()
+  // deleteSeed() {
+  //   return this.seedService.deleteSeed();
+  // }
+
 }
